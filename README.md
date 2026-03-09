@@ -1,2 +1,1 @@
-# udemy_clone
-udemy clone project
+A Udemy Clone built to simulate an online learning platform where users can browse courses, enroll in them, and watch lessons. This project is created for learning purposes to practice full-stack development and web application architecture.
